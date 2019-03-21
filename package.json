@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ilios/config.git"
+    "url": "git+https://github.com/ilios/eslint-config.git"
   },
   "keywords": [
     "eslint-config",
@@ -16,9 +16,9 @@
   "author": "Team Ilios <support@iliosproject.org>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ilios/config/issues"
+    "url": "https://github.com/ilios/eslint-config/issues"
   },
-  "homepage": "https://github.com/ilios/config/tree/master/eslint-config-ember#readme",
+  "homepage": "https://github.com/ilios/eslint-config/tree/master/eslint-config#readme",
   "files": [
     "index.js"
   ],
