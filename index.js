@@ -1,3 +1,6 @@
+/* eslint-env node */
+'use strict';
+
 module.exports = {
   parser: 'babel-eslint',
   parserOptions: {
