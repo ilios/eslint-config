@@ -1,6 +1,6 @@
 {
   "name": "@ilios/eslint-config",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Ember Eslint for Ilios Projects",
   "scripts": {
     "test": "eslint -c index.js ."
